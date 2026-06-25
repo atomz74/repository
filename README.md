@@ -16,3 +16,13 @@ Dla liczb nie całych trzeba wpisywać ich przez kropkę np. 24.125
 Jeśli wpisywać przez przecinek, program to nie odczyta
 
 program pracuje jeśli dwie liczby są całe, albo dwie liczby są nie całe, np. 12 * 35, albo 1.2 * 3.5
+
+___
+
+#### Autor:
+
+Aliaksandr Stankevich
+
+Informatyka Stosowana
+
+Numer albumu: 13237
