@@ -1,7 +1,6 @@
 # kalkulator liczb binarnych
 ### instrukcja:
 Najpierw trzeba wpisać jedną liczbę 
-
 Następnie wpisać drugą liczbę
 
 Trzecim krokiem działanie, które Pan chce wypełnić
