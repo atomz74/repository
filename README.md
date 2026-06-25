@@ -1,8 +1,8 @@
 # kalkulator liczb binarnych
 
-# instrukcja:
+instrukcja:
 
-# Najpierw trzeba wpisać jedną liczbę 
+Najpierw trzeba wpisać jedną liczbę 
 
 Następnie wpisać drugą liczbę
 
