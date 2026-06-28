@@ -6,6 +6,12 @@ urochomić plik w pycharm
 
 wszystko wpisuje się w terminalu
 
+### jak działa:
+
+robi z liczb dziesiętnych binarne, a potem liczy z podanym działaniem
+
+(dzielenie, dodanie, mnożenie i odjęcie)
+
 ### instrukcja:
 
 Najpierw trzeba wpisać jedną liczbę
