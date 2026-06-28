@@ -1,4 +1,11 @@
 # kalkulator liczb binarnych
+
+### instalacja:
+
+urochomić plik w pycharm
+
+wszystko wpisuje się w terminalu
+
 ### instrukcja:
 
 Najpierw trzeba wpisać jedną liczbę
